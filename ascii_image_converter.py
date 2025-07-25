@@ -1,5 +1,4 @@
-#This program was heavily inspired by Raphson's tutorial on YouTube: https://www.youtube.com/watch?v=2fZBLPk-T2Y&t=1s
-#Much of the code is similar to his, though I have made my own changes in various places
+#This program was heavily inspired by Raphson's on YouTube: https://www.youtube.com/watch?v=2fZBLPk-T2Y&t=1s
 
 
 '''
