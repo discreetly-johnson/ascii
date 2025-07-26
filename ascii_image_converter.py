@@ -41,8 +41,10 @@ def getCharacters(inputInt):
     return charsArray[math.floor(inputInt*interval)]
 
 
+#The font here will need to be downloaded and replaced with the required filepath
+fonty = ImageFont.truetype('lucon.ttf', 15)
 
-fonty = ImageFont.truetype('C:\\Windows\\Fonts\\lucon.ttf', 15)
+
 w, h = image.size
 #image is resized to prevent warping
 #image is scaled down so that ascii characters are visible and not too small
